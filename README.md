@@ -4,7 +4,7 @@
 3. D <br>
 4. A <br>
 5. C <br>
-6. D <br>
+6. E <br>
 7. C <br>
 8. C <br>
 9. B <br>
@@ -14,7 +14,7 @@
 13. C <br>
 14. A <br>
 15. E <br>
-16. D <br>
+16. B <br>
 17. B <br>
 18. A <br>
 19. D <br>
